@@ -1,2 +1,2 @@
 # Sample-archive-collections
-Repository for sample archive collections to use in database query, finding aids and digital asset management. 
+Repository for sample archive collections for machine training and humans. 
